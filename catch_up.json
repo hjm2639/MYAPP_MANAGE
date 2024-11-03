@@ -1,6 +1,5 @@
 {
-    "version": "1.0.0",
-    "android": "",
-    "ios": "",
-    "url": ""
+    "version": "1.0.1",
+    "android": "com.mitsoft.food_check",
+    "ios": "6473715397"
 }
